@@ -1,0 +1,2933 @@
+{
+  "plantao": [
+    {
+      "id": 1,
+      "agente": "Leilson Sousa",
+      "data": "01-05-2023",
+      "producao": []
+    }
+  ],
+  "produtos": [
+    {
+      "descricao": "LUVA CIRURGICA NR 7.5",
+      "setor": "Emergencia",
+      "quantidade": 5,
+      "medida": "PR",
+      "id_produto": 240,
+      "id": 12
+    },
+    {
+      "descricao": "CEFTRIAXONA 1G PO SOL INJ CX C/100 AMP",
+      "setor": "Emergencia",
+      "quantidade": 2,
+      "medida": "UNID",
+      "id_produto": 87,
+      "id": 13
+    },
+    {
+      "descricao": "ESPARADRAPO IMPERMEAVEL 10CM X 4,5M",
+      "setor": "Emergencia",
+      "quantidade": 2,
+      "medida": "UNID",
+      "id_produto": 147,
+      "id": 14
+    },
+    {
+      "descricao": "TERMOMETRO CLINICO DIGITAL",
+      "setor": "Emergencia",
+      "quantidade": 2,
+      "medida": "UNID",
+      "id_produto": 364,
+      "id": 15
+    },
+    {
+      "descricao": "SORO FISIOLÓGICO 0,9% 500ML",
+      "setor": "Emergencia",
+      "quantidade": 5,
+      "medida": "FRS",
+      "id_produto": 349,
+      "id": 16
+    },
+    {
+      "descricao": "SORO GLICOSADO 5% 500ML",
+      "setor": "Emergencia",
+      "quantidade": 3,
+      "medida": "FRS",
+      "id_produto": 353,
+      "id": 17
+    },
+    {
+      "descricao": "METRONIDAZOL  5MG/ML INJ 100ML",
+      "setor": "Emergencia",
+      "quantidade": 1,
+      "medida": "FRS",
+      "id_produto": 256,
+      "id": 18
+    },
+    {
+      "descricao": "CATETER INTRAVENOSO JELCO NR 24G CX C/50 UND",
+      "setor": "Emergencia",
+      "quantidade": 5,
+      "medida": "UNID",
+      "id_produto": 81,
+      "id": 19
+    },
+    {
+      "descricao": "COMPLEXO B INJ. C/100 AMP",
+      "setor": "Pre-Parto",
+      "quantidade": 10,
+      "medida": "UNID",
+      "id_produto": 105,
+      "id": 20
+    },
+    {
+      "descricao": "ACIDO ASCORBICO 100MG/ML INJ CX C/100 AMP",
+      "setor": "Pre-Parto",
+      "quantidade": 10,
+      "medida": "UNID",
+      "id_produto": 4,
+      "id": 21
+    },
+    {
+      "descricao": "DEXAMETASONA 4MG/ML INJ. CX C/100 AMP",
+      "setor": "Pre-Parto",
+      "quantidade": 6,
+      "medida": "UNID",
+      "id_produto": 116,
+      "id": 22
+    },
+    {
+      "descricao": "CEFTRIAXONA 1G PO SOL INJ CX C/100 AMP",
+      "setor": "Emergencia",
+      "quantidade": 2,
+      "medida": "UNID",
+      "id_produto": 87,
+      "id": 23
+    },
+    {
+      "descricao": "SORO FISIOLÓGICO 0,9% 250ML",
+      "setor": "Posto Enf",
+      "quantidade": 5,
+      "medida": "FRS",
+      "id_produto": 348,
+      "id": 24
+    },
+    {
+      "descricao": "COLETOR PERFURO CORTANTE 20 L",
+      "setor": "Posto Enf",
+      "quantidade": 1,
+      "medida": "UND",
+      "id_produto": 103,
+      "id": 25
+    },
+    {
+      "descricao": "ESCALPE NR 23G CX C/100 UND",
+      "setor": "Emergencia",
+      "quantidade": 15,
+      "medida": "UNID",
+      "id_produto": 141,
+      "id": 26
+    },
+    {
+      "descricao": "ESCALPE NR 25G CX C/100 UND",
+      "setor": "Emergencia",
+      "quantidade": 5,
+      "medida": "UNID",
+      "id_produto": 142,
+      "id": 27
+    },
+    {
+      "descricao": "SORO GLICOSADO 5% 500ML",
+      "setor": "Pre-Parto",
+      "quantidade": 3,
+      "medida": "FRS",
+      "id_produto": 353,
+      "id": 28
+    },
+    {
+      "descricao": "SIMETICONA 75MG/ML GTS 10ML",
+      "setor": "Emergencia",
+      "quantidade": 1,
+      "medida": "FR",
+      "id_produto": 317,
+      "id": 29
+    },
+    {
+      "descricao": "CEFTRIAXONA 1G PO SOL INJ CX C/100 AMP",
+      "setor": "Emergencia",
+      "quantidade": 2,
+      "medida": "UNID",
+      "id_produto": 87,
+      "id": 30
+    },
+    {
+      "descricao": "DIPIRONA SÓDICA 1G 2ML INJ CX C/120AMP",
+      "setor": "Emergencia",
+      "quantidade": 30,
+      "medida": "UNID",
+      "id_produto": 123,
+      "id": 31
+    },
+    {
+      "descricao": "DICLOFENACO SÓDICO 75MG/3ML INJ. CX C/100AMP",
+      "setor": "Emergencia",
+      "quantidade": 12,
+      "medida": "UNID",
+      "id_produto": 122,
+      "id": 32
+    },
+    {
+      "descricao": "DEXAMETASONA 4MG/ML INJ. CX C/100 AMP",
+      "setor": "Emergencia",
+      "quantidade": 24,
+      "medida": "UNID",
+      "id_produto": 116,
+      "id": 33
+    },
+    {
+      "descricao": "BUTILBROMETO DE ESCOP - SIMPLES",
+      "setor": "Emergencia",
+      "quantidade": 20,
+      "medida": "UNID",
+      "id_produto": 71,
+      "id": 34
+    },
+    {
+      "descricao": "OMEPRAZOL SODICO 40MG - INJ",
+      "setor": "Emergencia",
+      "quantidade": 5,
+      "medida": "UNID",
+      "id_produto": 281,
+      "id": 35
+    },
+    {
+      "descricao": "HIDROCORTISONA 500MG. INJ CX C/50 FRS",
+      "setor": "Emergencia",
+      "quantidade": 3,
+      "medida": "UNID",
+      "id_produto": 215,
+      "id": 36
+    },
+    {
+      "descricao": "HIDROCORTISONA 100MG. INJ CX C/50 FRS",
+      "setor": "Emergencia",
+      "quantidade": 3,
+      "medida": "UNID",
+      "id_produto": 214,
+      "id": 37
+    },
+    {
+      "descricao": "CIMETIDINA 150MG/ML INJ.CX C/100AMP",
+      "setor": "Emergencia",
+      "quantidade": 15,
+      "medida": "UNID",
+      "id_produto": 91,
+      "id": 38
+    },
+    {
+      "descricao": "FUROSEMIDA 10MG/ML INJ. CX C/50AMP",
+      "setor": "Emergencia",
+      "quantidade": 20,
+      "medida": "UNID",
+      "id_produto": 197,
+      "id": 39
+    },
+    {
+      "descricao": "ACIDO ASCORBICO 100MG/ML INJ CX C/100 AMP",
+      "setor": "Emergencia",
+      "quantidade": 20,
+      "medida": "UNID",
+      "id_produto": 4,
+      "id": 40
+    },
+    {
+      "descricao": "GENTAMICINA 40MG/MLO INJ. CX C/100AMP",
+      "setor": "Emergencia",
+      "quantidade": 20,
+      "medida": "UNID",
+      "id_produto": 204,
+      "id": 41
+    },
+    {
+      "descricao": "COMPLEXO B INJ. C/100 AMP",
+      "setor": "Emergencia",
+      "quantidade": 20,
+      "medida": "UNID",
+      "id_produto": 105,
+      "id": 42
+    },
+    {
+      "descricao": "EQUIPO MACRO GOTAS SIMPLES",
+      "setor": "Emergencia",
+      "quantidade": 10,
+      "medida": "UNID",
+      "id_produto": 134,
+      "id": 43
+    },
+    {
+      "descricao": "SERINGA 01ML S/AG. C/100 UND.",
+      "setor": "Emergencia",
+      "quantidade": 10,
+      "medida": "UNID",
+      "id_produto": 311,
+      "id": 44
+    },
+    {
+      "descricao": "SERINGA 03ML S/AG. C/100 UND.",
+      "setor": "Emergencia",
+      "quantidade": 20,
+      "medida": "UNID",
+      "id_produto": 312,
+      "id": 45
+    },
+    {
+      "descricao": "SERINGA 05ML S/AG. C/100 UND.",
+      "setor": "Emergencia",
+      "quantidade": 10,
+      "medida": "UNID",
+      "id_produto": 313,
+      "id": 46
+    },
+    {
+      "descricao": "SERINGA 10ML S/AG. C/100 UND.",
+      "setor": "Emergencia",
+      "quantidade": 20,
+      "medida": "UNID",
+      "id_produto": 314,
+      "id": 47
+    },
+    {
+      "descricao": "SERINGA 20ML S/AG. C/50 UND.",
+      "setor": "Emergencia",
+      "quantidade": 20,
+      "medida": "UNID",
+      "id_produto": 315,
+      "id": 48
+    },
+    {
+      "descricao": "AGULHA DESC. 40X12 CX C/100 UND",
+      "setor": "Emergencia",
+      "quantidade": 20,
+      "medida": "UNID",
+      "id_produto": 25,
+      "id": 49
+    },
+    {
+      "descricao": "CATETER INTRAVENOSO JELCO NR 24G CX C/50 UND",
+      "setor": "Emergencia",
+      "quantidade": 10,
+      "medida": "UNID",
+      "id_produto": 81,
+      "id": 50
+    },
+    {
+      "descricao": "CATETER INTRAVENOSO JELCO NR 22G CX C/50 UND",
+      "setor": "Emergencia",
+      "quantidade": 10,
+      "medida": "UNID",
+      "id_produto": 80,
+      "id": 51
+    },
+    {
+      "descricao": "CATETER INTRAVENOSO JELCO NR 20G CX C/50 UND",
+      "setor": "Emergencia",
+      "quantidade": 10,
+      "medida": "UNID",
+      "id_produto": 79,
+      "id": 52
+    },
+    {
+      "descricao": "SORO FISIOLÓGICO 0,9% 500ML",
+      "setor": "Emergencia",
+      "quantidade": 5,
+      "medida": "FRS",
+      "id_produto": 349,
+      "id": 53
+    },
+    {
+      "descricao": "SORO FISIOLÓGICO 0,9% 250ML",
+      "setor": "Emergencia",
+      "quantidade": 5,
+      "medida": "FRS",
+      "id_produto": 348,
+      "id": 54
+    },
+    {
+      "descricao": "SORO GLICO-FISIOLÓGICO 500ML  S.F",
+      "setor": "Emergencia",
+      "quantidade": 6,
+      "medida": "FRS",
+      "id_produto": 351,
+      "id": 55
+    },
+    {
+      "descricao": "ATADURA DE CREPE 20CM X 1,20M PCT C/12 UND",
+      "setor": "Emergencia",
+      "quantidade": 2,
+      "medida": "PCT",
+      "id_produto": 56,
+      "id": 56
+    },
+    {
+      "descricao": "LUVA DE PROCEDIMENTO M CX C/100 UND",
+      "setor": "Emergencia",
+      "quantidade": 100,
+      "medida": "UNID",
+      "id_produto": 243,
+      "id": 57
+    },
+    {
+      "descricao": "METRONIDAZOL 40MG/ML SUSP. 80ML",
+      "setor": "Emergencia",
+      "quantidade": 1,
+      "medida": "FR",
+      "id_produto": 260,
+      "id": 58
+    },
+    {
+      "descricao": "DEXAMETASONA 4MG/ML INJ. CX C/100 AMP",
+      "setor": "Posto Enf",
+      "quantidade": 2,
+      "medida": "UNID",
+      "id_produto": 116,
+      "id": 59
+    },
+    {
+      "descricao": "CEFTRIAXONA 1G PO SOL INJ CX C/100 AMP",
+      "setor": "Emergencia",
+      "quantidade": 3,
+      "medida": "UNID",
+      "id_produto": 87,
+      "id": 60
+    },
+    {
+      "descricao": "COMPRESSA DE GAZE 7,5 X 7,5 CM PCT C/500 UND",
+      "setor": "Emergencia",
+      "quantidade": 5,
+      "medida": "PCT",
+      "id_produto": 107,
+      "id": 61
+    },
+    {
+      "descricao": "ESPARADRAPO IMPERMEAVEL 10CM X 4,5M",
+      "setor": "Emergencia",
+      "quantidade": 1,
+      "medida": "UNID",
+      "id_produto": 147,
+      "id": 62
+    },
+    {
+      "descricao": "CEFTRIAXONA 1G PO SOL INJ CX C/100 AMP",
+      "setor": "Emergencia",
+      "quantidade": 1,
+      "medida": "UNID",
+      "id_produto": 87,
+      "id": 63
+    },
+    {
+      "descricao": "SALBUTAMOL 2,4MG/5ML SUSP. 100ML",
+      "setor": "Emergencia",
+      "quantidade": 1,
+      "medida": "FR",
+      "id_produto": 309,
+      "id": 64
+    },
+    {
+      "descricao": "HIDROCORTISONA 100MG. INJ CX C/50 FRS",
+      "setor": "Emergencia",
+      "quantidade": 1,
+      "medida": "UNID",
+      "id_produto": 214,
+      "id": 65
+    },
+    {
+      "descricao": "ESCALPE NR 23G CX C/100 UND",
+      "setor": "Emergencia",
+      "quantidade": 20,
+      "medida": "UNID",
+      "id_produto": 141,
+      "id": 66
+    },
+    {
+      "descricao": "ESCALPE NR 25G CX C/100 UND",
+      "setor": "Emergencia",
+      "quantidade": 5,
+      "medida": "UNID",
+      "id_produto": 142,
+      "id": 67
+    },
+    {
+      "descricao": "ESFIGMOMANOMETRO C/ EST. KIT VELCRO",
+      "setor": "Emergencia",
+      "quantidade": 1,
+      "medida": "UNID",
+      "id_produto": 146,
+      "id": 68
+    },
+    {
+      "descricao": "EQUIPO MACRO GOTAS SIMPLES",
+      "setor": "Pre-Parto",
+      "quantidade": 5,
+      "medida": "UNID",
+      "id_produto": 134,
+      "id": 69
+    },
+    {
+      "descricao": "MULTIVIAS",
+      "setor": "Pre-Parto",
+      "quantidade": 6,
+      "medida": "UNID",
+      "id_produto": 264,
+      "id": 70
+    },
+    {
+      "descricao": "CATETER INTRAVENOSO JELCO NR 20G CX C/50 UND",
+      "setor": "Pre-Parto",
+      "quantidade": 5,
+      "medida": "UNID",
+      "id_produto": 79,
+      "id": 71
+    },
+    {
+      "descricao": "SERINGA 20ML S/AG. C/50 UND.",
+      "setor": "Pre-Parto",
+      "quantidade": 10,
+      "medida": "UNID",
+      "id_produto": 315,
+      "id": 72
+    },
+    {
+      "descricao": "AGULHA DESC. 30X8 CX C/100 UND",
+      "setor": "Pre-Parto",
+      "quantidade": 10,
+      "medida": "UNID",
+      "id_produto": 24,
+      "id": 73
+    },
+    {
+      "descricao": "AGULHA DESC. 40X12 CX C/100 UND",
+      "setor": "Pre-Parto",
+      "quantidade": 20,
+      "medida": "UNID",
+      "id_produto": 25,
+      "id": 74
+    },
+    {
+      "descricao": "LAMINA DE BISTURI NR 24 CX C/100 UND",
+      "setor": "Pre-Parto",
+      "quantidade": 10,
+      "medida": "UNID",
+      "id_produto": 231,
+      "id": 75
+    },
+    {
+      "descricao": "LUVA CIRURGICA NR 7.5",
+      "setor": "Pre-Parto",
+      "quantidade": 5,
+      "medida": "PR",
+      "id_produto": 240,
+      "id": 76
+    },
+    {
+      "descricao": "LIDOCAINA 2% INJ.S/V C/25 AMP",
+      "setor": "Pre-Parto",
+      "quantidade": 1,
+      "medida": "UNID",
+      "id_produto": 235,
+      "id": 77
+    },
+    {
+      "descricao": "CEFALOTINA SODICA 1G INJ CX C/50 FRS",
+      "setor": "Posto Enf",
+      "quantidade": 2,
+      "medida": "FR",
+      "id_produto": 86,
+      "id": 78
+    },
+    {
+      "descricao": "DIPIRONA SÓDICA 1G 2ML INJ CX C/120AMP",
+      "setor": "Posto Enf",
+      "quantidade": 2,
+      "medida": "UNID",
+      "id_produto": 123,
+      "id": 79
+    },
+    {
+      "descricao": "CEFTRIAXONA 1G PO SOL INJ CX C/100 AMP",
+      "setor": "Posto Enf",
+      "quantidade": 2,
+      "medida": "UNID",
+      "id_produto": 87,
+      "id": 80
+    },
+    {
+      "descricao": "EQUIPO MACRO GOTAS SIMPLES",
+      "setor": "Posto Enf",
+      "quantidade": 10,
+      "medida": "UNID",
+      "id_produto": 134,
+      "id": 81
+    },
+    {
+      "descricao": "AGULHA DESC. 30X8 CX C/100 UND",
+      "setor": "Emergencia",
+      "quantidade": 30,
+      "medida": "UNID",
+      "id_produto": 24,
+      "id": 82
+    },
+    {
+      "descricao": "CEFTRIAXONA 1G PO SOL INJ CX C/100 AMP",
+      "setor": "Posto Enf",
+      "quantidade": 1,
+      "medida": "UNID",
+      "id_produto": 87,
+      "id": 83
+    },
+    {
+      "descricao": "DIPIRONA SÓDICA 1G 2ML INJ CX C/120AMP",
+      "setor": "Posto Enf",
+      "quantidade": 2,
+      "medida": "02",
+      "id_produto": 123,
+      "id": 84
+    },
+    {
+      "descricao": "ÁLCOOL 70% 1LT",
+      "setor": "Emergencia",
+      "quantidade": 1,
+      "medida": "FR",
+      "id_produto": 29,
+      "id": 85
+    },
+    {
+      "descricao": "SORO FISIOLÓGICO 0,9% 250ML",
+      "setor": "Emergencia",
+      "quantidade": 5,
+      "medida": "FRS",
+      "id_produto": 348,
+      "id": 86
+    },
+    {
+      "descricao": "HIDROXIDO DE ALUMINIO 6% SUSP. 100ML",
+      "setor": "Emergencia",
+      "quantidade": 1,
+      "medida": "FR",
+      "id_produto": 216,
+      "id": 87
+    },
+    {
+      "descricao": "CATETER INTRAVENOSO JELCO NR 22G CX C/50 UND",
+      "setor": "Emergencia",
+      "quantidade": 10,
+      "medida": "UNID",
+      "id_produto": 80,
+      "id": 88
+    },
+    {
+      "descricao": "SERINGA 10ML S/AG. C/100 UND.",
+      "setor": "Emergencia",
+      "quantidade": 10,
+      "medida": "UNID",
+      "id_produto": 314,
+      "id": 89
+    },
+    {
+      "descricao": "SERINGA 03ML S/AG. C/100 UND.",
+      "setor": "Emergencia",
+      "quantidade": 10,
+      "medida": "UNID",
+      "id_produto": 312,
+      "id": 90
+    },
+    {
+      "descricao": "SERINGA 05ML S/AG. C/100 UND.",
+      "setor": "Emergencia",
+      "quantidade": 10,
+      "medida": "UNID",
+      "id_produto": 313,
+      "id": 91
+    },
+    {
+      "descricao": "ATENOLOL 25MG CX C/ 600 COMP.",
+      "setor": "Emergencia",
+      "quantidade": 20,
+      "medida": "UNID",
+      "id_produto": 61,
+      "id": 92
+    },
+    {
+      "descricao": "METRONIDAZOL  5MG/ML INJ 100ML",
+      "setor": "Emergencia",
+      "quantidade": 1,
+      "medida": "FRS",
+      "id_produto": 256,
+      "id": 93
+    },
+    {
+      "descricao": "CETOPROFENO - INJ",
+      "setor": "Emergencia",
+      "quantidade": 2,
+      "medida": "UNID",
+      "id_produto": 90,
+      "id": 94
+    },
+    {
+      "descricao": "CEFALOTINA SODICA 1G INJ CX C/50 FRS",
+      "setor": "Emergencia",
+      "quantidade": 2,
+      "medida": "FR",
+      "id_produto": 86,
+      "id": 95
+    },
+    {
+      "descricao": "DIPIRONA SÓDICA 1G 2ML INJ CX C/120AMP",
+      "setor": "Emergencia",
+      "quantidade": 2,
+      "medida": "UNID",
+      "id_produto": 123,
+      "id": 96
+    },
+    {
+      "descricao": "EQUIPO MACRO GOTAS SIMPLES",
+      "setor": "Emergencia",
+      "quantidade": 20,
+      "medida": "UNID",
+      "id_produto": 134,
+      "id": 97
+    },
+    {
+      "descricao": "MULTIVIAS",
+      "setor": "Emergencia",
+      "quantidade": 15,
+      "medida": "UNID",
+      "id_produto": 264,
+      "id": 98
+    },
+    {
+      "descricao": "GLICOSE 50% INJ 10ML",
+      "setor": "Emergencia",
+      "quantidade": 10,
+      "medida": "AMP",
+      "id_produto": 209,
+      "id": 99
+    },
+    {
+      "descricao": "SERINGA 20ML S/AG. C/50 UND.",
+      "setor": "Emergencia",
+      "quantidade": 10,
+      "medida": "UNID",
+      "id_produto": 315,
+      "id": 100
+    },
+    {
+      "descricao": "SERINGA 10ML S/AG. C/100 UND.",
+      "setor": "Emergencia",
+      "quantidade": 10,
+      "medida": "UNID",
+      "id_produto": 314,
+      "id": 101
+    },
+    {
+      "descricao": "AGULHA DESC. 13X4,5 CX C/100 UND",
+      "setor": "Emergencia",
+      "quantidade": 20,
+      "medida": "UNID",
+      "id_produto": 20,
+      "id": 102
+    },
+    {
+      "descricao": "AGULHA DESC. 20X5,5 CX C/100 UND",
+      "setor": "Emergencia",
+      "quantidade": 20,
+      "medida": "UNID",
+      "id_produto": 21,
+      "id": 103
+    },
+    {
+      "descricao": "LUVA CIRURGICA NR 7.5",
+      "setor": "Emergencia",
+      "quantidade": 4,
+      "medida": "PR",
+      "id_produto": 240,
+      "id": 104
+    },
+    {
+      "descricao": "LUVA CIRURGICA NR 8.0",
+      "setor": "Emergencia",
+      "quantidade": 3,
+      "medida": "PR",
+      "id_produto": 241,
+      "id": 105
+    },
+    {
+      "descricao": "LUVA CIRURGICA NR 7.0",
+      "setor": "Emergencia",
+      "quantidade": 5,
+      "medida": "PR",
+      "id_produto": 378,
+      "id": 106
+    },
+    {
+      "descricao": "FIO NYLON 4-0 C/AG CX C/24 ENV",
+      "setor": "Emergencia",
+      "quantidade": 10,
+      "medida": "UNID",
+      "id_produto": 182,
+      "id": 107
+    },
+    {
+      "descricao": "SORO RINGER C/LACTATO 500ML",
+      "setor": "Emergencia",
+      "quantidade": 5,
+      "medida": "FRS",
+      "id_produto": 356,
+      "id": 108
+    },
+    {
+      "descricao": "SORO GLICO-FISIOLÓGICO 500ML  S.F",
+      "setor": "Emergencia",
+      "quantidade": 5,
+      "medida": "FRS",
+      "id_produto": 351,
+      "id": 109
+    },
+    {
+      "descricao": "DICLOFENACO SÓDICO 75MG/3ML INJ. CX C/100AMP",
+      "setor": "Emergencia",
+      "quantidade": 15,
+      "medida": "UNID",
+      "id_produto": 122,
+      "id": 110
+    },
+    {
+      "descricao": "DICLOFENACO POTASSICO 75MG/3ML INJ CX C/100 AMP",
+      "setor": "Emergencia",
+      "quantidade": 15,
+      "medida": "UNID",
+      "id_produto": 119,
+      "id": 111
+    },
+    {
+      "descricao": "DEXAMETASONA 4MG/ML INJ. CX C/100 AMP",
+      "setor": "Emergencia",
+      "quantidade": 12,
+      "medida": "UNID",
+      "id_produto": 116,
+      "id": 112
+    },
+    {
+      "descricao": "HIDROCORTISONA 500MG. INJ CX C/50 FRS",
+      "setor": "Emergencia",
+      "quantidade": 4,
+      "medida": "UNID",
+      "id_produto": 215,
+      "id": 113
+    },
+    {
+      "descricao": "PROMETAZINA 50MG/2ML INJ C/ 50 AMP",
+      "setor": "Emergencia",
+      "quantidade": 20,
+      "medida": "UNID",
+      "id_produto": 302,
+      "id": 114
+    },
+    {
+      "descricao": "CETOPROFENO - INJ",
+      "setor": "Emergencia",
+      "quantidade": 20,
+      "medida": "UNID",
+      "id_produto": 90,
+      "id": 115
+    },
+    {
+      "descricao": "COMPLEXO B INJ. C/100 AMP",
+      "setor": "Emergencia",
+      "quantidade": 20,
+      "medida": "UNID",
+      "id_produto": 105,
+      "id": 116
+    },
+    {
+      "descricao": "SORO FISIOLÓGICO 0,9% 250ML",
+      "setor": "Posto Enf",
+      "quantidade": 3,
+      "medida": "FRS",
+      "id_produto": 348,
+      "id": 117
+    },
+    {
+      "descricao": "SORO GLICO-FISIOLÓGICO 500ML  S.F",
+      "setor": "Posto Enf",
+      "quantidade": 5,
+      "medida": "FRS",
+      "id_produto": 351,
+      "id": 118
+    },
+    {
+      "descricao": "SORO RINGER C/LACTATO 500ML",
+      "setor": "Posto Enf",
+      "quantidade": 5,
+      "medida": "FRS",
+      "id_produto": 356,
+      "id": 119
+    },
+    {
+      "descricao": "SORO RINGER SIMPLES 500ML",
+      "setor": "Posto Enf",
+      "quantidade": 5,
+      "medida": "FRS",
+      "id_produto": 357,
+      "id": 120
+    },
+    {
+      "descricao": "SERINGA 01ML S/AG. C/100 UND.",
+      "setor": "Posto Enf",
+      "quantidade": 10,
+      "medida": "UNID",
+      "id_produto": 311,
+      "id": 121
+    },
+    {
+      "descricao": "SERINGA 03ML S/AG. C/100 UND.",
+      "setor": "Posto Enf",
+      "quantidade": 10,
+      "medida": "UNID",
+      "id_produto": 312,
+      "id": 122
+    },
+    {
+      "descricao": "SERINGA 05ML S/AG. C/100 UND.",
+      "setor": "Posto Enf",
+      "quantidade": 30,
+      "medida": "UNID",
+      "id_produto": 313,
+      "id": 123
+    },
+    {
+      "descricao": "SERINGA 10ML S/AG. C/100 UND.",
+      "setor": "Posto Enf",
+      "quantidade": 30,
+      "medida": "UNID",
+      "id_produto": 314,
+      "id": 124
+    },
+    {
+      "descricao": "SERINGA 20ML S/AG. C/50 UND.",
+      "setor": "Posto Enf",
+      "quantidade": 20,
+      "medida": "UNID",
+      "id_produto": 315,
+      "id": 125
+    },
+    {
+      "descricao": "AGULHA DESC. 40X12 CX C/100 UND",
+      "setor": "Posto Enf",
+      "quantidade": 40,
+      "medida": "UNID",
+      "id_produto": 25,
+      "id": 126
+    },
+    {
+      "descricao": "AGULHA DESC. 25X7 CX C/100 UND",
+      "setor": "Posto Enf",
+      "quantidade": 20,
+      "medida": "UNID",
+      "id_produto": 22,
+      "id": 127
+    },
+    {
+      "descricao": "ÁLCOOL 70% 1LT",
+      "setor": "Posto Enf",
+      "quantidade": 1,
+      "medida": "FR",
+      "id_produto": 29,
+      "id": 128
+    },
+    {
+      "descricao": "ESPARADRAPO IMPERMEAVEL 10CM X 4,5M",
+      "setor": "Posto Enf",
+      "quantidade": 1,
+      "medida": "UNID",
+      "id_produto": 147,
+      "id": 129
+    }
+  ],
+  "medidas": [
+    {
+      "id": 1,
+      "descricao": "Metro",
+      "abreviacao": "mt"
+    },
+    {
+      "id": 2,
+      "descricao": "Litro",
+      "abreviacao": "Lt"
+    },
+    {
+      "id": 3,
+      "descricao": "Unidade",
+      "abreviacao": "Und"
+    },
+    {
+      "id": 4,
+      "descricao": "Pacote",
+      "abreviacao": "PC"
+    },
+    {
+      "id": 5,
+      "descricao": "Frasco",
+      "abreviacao": "Fr"
+    }
+  ],
+  "listaGeralMedicamentos": [
+    {
+      "id": 0,
+      "descricao": "ABAIXADOR DE LINGUA PCT C/100 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 1,
+      "descricao": "ACEBROFILINA - SUSP",
+      "unidade": "UNID"
+    },
+    {
+      "id": 2,
+      "descricao": "ÁCIDO ACETILSALICILICO 100 MG CX C/1000 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 3,
+      "descricao": "ÁCIDO ACETILSALICILICO 500 MG CX C/500 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 4,
+      "descricao": "ACIDO ASCORBICO 100MG/ML INJ CX C/100 AMP",
+      "unidade": "UNID"
+    },
+    {
+      "id": 5,
+      "descricao": "ÁCIDO ASCORBICO SUSP. 20ML",
+      "unidade": "FR"
+    },
+    {
+      "id": 6,
+      "descricao": "ÁCIDO FÓLICO 5 MG CX C/500 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 7,
+      "descricao": "ACIDO TRANEXAMICO 50MG/M INJ CX C/5AMPL",
+      "unidade": "UNID"
+    },
+    {
+      "id": 8,
+      "descricao": "ADALAT - COMP",
+      "unidade": "UNID"
+    },
+    {
+      "id": 9,
+      "descricao": "ADRENALINA 1MG/ML INJ CX C/100AMP",
+      "unidade": "UNID"
+    },
+    {
+      "id": 10,
+      "descricao": "AGUA DESTILADA P/AUTOCLAVE 5L",
+      "unidade": "FR"
+    },
+    {
+      "id": 11,
+      "descricao": "AGUA OXIGENADA 1L",
+      "unidade": "FR"
+    },
+    {
+      "id": 12,
+      "descricao": "AGUA PARA INJEÇÃO 02ML",
+      "unidade": "FR"
+    },
+    {
+      "id": 13,
+      "descricao": "AGUA PARA INJEÇÃO 05ML",
+      "unidade": "FRS"
+    },
+    {
+      "id": 14,
+      "descricao": "AGUA PARA INJEÇÃO 10ML",
+      "unidade": "UNID"
+    },
+    {
+      "id": 15,
+      "descricao": "AGUA PARA INJEÇÃO 500ML",
+      "unidade": "FRS"
+    },
+    {
+      "id": 16,
+      "descricao": "AGULHA 25/6 CX C/100 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 17,
+      "descricao": "AGULHA ANESTESIA ESPINHAL NR 25 CX C/25 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 18,
+      "descricao": "AGULHA ANESTESIA ESPINHAL NR 26 CX C/25 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 19,
+      "descricao": "AGULHA ANESTESIA ESPINHAL NR 27 CX C/25 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 20,
+      "descricao": "AGULHA DESC. 13X4,5 CX C/100 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 21,
+      "descricao": "AGULHA DESC. 20X5,5 CX C/100 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 22,
+      "descricao": "AGULHA DESC. 25X7 CX C/100 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 23,
+      "descricao": "AGULHA DESC. 25X8 CX C/100 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 24,
+      "descricao": "AGULHA DESC. 30X8 CX C/100 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 25,
+      "descricao": "AGULHA DESC. 40X12 CX C/100 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 26,
+      "descricao": "AGULHA P/ ANESTESIA",
+      "unidade": "UNID"
+    },
+    {
+      "id": 27,
+      "descricao": "ALBENDAZOL  40MG/ML SUSP. 10ML",
+      "unidade": "FR"
+    },
+    {
+      "id": 28,
+      "descricao": "ALBENDAZOL 400 MG CX C/100 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 29,
+      "descricao": "ÁLCOOL 70% 1LT",
+      "unidade": "FR"
+    },
+    {
+      "id": 30,
+      "descricao": "ÁLCOOL 96% 1LT",
+      "unidade": "FR"
+    },
+    {
+      "id": 31,
+      "descricao": "ÁLCOOL EM GEL ANTI-SEPTICO 70% 500G",
+      "unidade": "FR"
+    },
+    {
+      "id": 32,
+      "descricao": "ALCOOL IODADO 0,1% 1LT",
+      "unidade": "FR"
+    },
+    {
+      "id": 33,
+      "descricao": "ALGODÃO HIDROFILO 500 G",
+      "unidade": "RL"
+    },
+    {
+      "id": 34,
+      "descricao": "ALGODAO ORTOPEDICO 12CM X 1M PCT C/12 RLS",
+      "unidade": "UNID"
+    },
+    {
+      "id": 35,
+      "descricao": "ALGODAO ORTOPEDICO 15CM X 1M PCT C/12 RLS",
+      "unidade": "DZ"
+    },
+    {
+      "id": 36,
+      "descricao": "ALGODAO ORTOPEDICO 20CM X 1M PCT C/12 RLS",
+      "unidade": "DZ"
+    },
+    {
+      "id": 37,
+      "descricao": "ALGODÃO POLIESTER SEM AGULHA - 3,0",
+      "unidade": "UNID"
+    },
+    {
+      "id": 38,
+      "descricao": "ALMOTOLIA PLÁSTICA TRANSPARENTE 250ML",
+      "unidade": "UNID"
+    },
+    {
+      "id": 39,
+      "descricao": "ALMOTOLIA PLÁSTICA TRANSPARENTE 500ML",
+      "unidade": "UND"
+    },
+    {
+      "id": 40,
+      "descricao": "AMBROXOL 3MG/ML SUSP. INFANTIL 100ML",
+      "unidade": "FR"
+    },
+    {
+      "id": 41,
+      "descricao": "AMBROXOL 6MG/ML SUSP. ADULTO 100ML",
+      "unidade": "FR"
+    },
+    {
+      "id": 42,
+      "descricao": "AMIOFILINA - INJ",
+      "unidade": "UNID"
+    },
+    {
+      "id": 43,
+      "descricao": "AMOXICILINA 250MG/5ML SUSP 60ML",
+      "unidade": "FR"
+    },
+    {
+      "id": 44,
+      "descricao": "AMOXICILINA 500 MG CX C/840 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 45,
+      "descricao": "AMPICILINA 500 MG CX C/840 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 46,
+      "descricao": "AMPICILINA 50MG/ML SUSP. 60ML",
+      "unidade": "FR"
+    },
+    {
+      "id": 47,
+      "descricao": "AMPICILINA SÓDICA 1G INJ CX C/50AMP",
+      "unidade": "UNID"
+    },
+    {
+      "id": 48,
+      "descricao": "AMPICILINA SÓDICA 500MG PÓ INJ CX C/50AMP",
+      "unidade": "UNID"
+    },
+    {
+      "id": 49,
+      "descricao": "APARELHO MONITOR PARA MEDIR GLICEMIA",
+      "unidade": "UNID"
+    },
+    {
+      "id": 50,
+      "descricao": "APARELHO PARA AFERIR PRESSÃO ARTERIAL",
+      "unidade": "UNID"
+    },
+    {
+      "id": 51,
+      "descricao": "APROFINA - INJ",
+      "unidade": "UNID"
+    },
+    {
+      "id": 52,
+      "descricao": "ATADURA DE ALGODÃO ORTOPEDICO 15CMX1M",
+      "unidade": "UNID"
+    },
+    {
+      "id": 53,
+      "descricao": "ATADURA DE CREPE 10CM X 1,20M PCT C/12 UND",
+      "unidade": "PCT"
+    },
+    {
+      "id": 54,
+      "descricao": "ATADURA DE CREPE 12CM X 1,20M PCT C/12 UND",
+      "unidade": "PCT"
+    },
+    {
+      "id": 55,
+      "descricao": "ATADURA DE CREPE 15CM X 1,20M PCT C/12 UND",
+      "unidade": "PCT"
+    },
+    {
+      "id": 56,
+      "descricao": "ATADURA DE CREPE 20CM X 1,20M PCT C/12 UND",
+      "unidade": "PCT"
+    },
+    {
+      "id": 57,
+      "descricao": "ATADURA GESSADA 10CM X 3M C/20",
+      "unidade": "CX"
+    },
+    {
+      "id": 58,
+      "descricao": "ATADURA GESSADA 15CM X 3M C/20",
+      "unidade": "CX"
+    },
+    {
+      "id": 59,
+      "descricao": "ATADURA GESSADA 20CM X 4M C/20",
+      "unidade": "CX"
+    },
+    {
+      "id": 60,
+      "descricao": "ATENOLOL 100MG CX C/600 COMP.",
+      "unidade": "CX"
+    },
+    {
+      "id": 61,
+      "descricao": "ATENOLOL 25MG CX C/ 600 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 62,
+      "descricao": "ATENOLOL 50MG CX C/ 600 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 63,
+      "descricao": "AVENTAL MANGA LONGA 20G PCT C/ 10 UND",
+      "unidade": "PCT"
+    },
+    {
+      "id": 64,
+      "descricao": "AZITROMICINA 600MG SUSP. 15ML+DIL.9,2ML",
+      "unidade": "FR"
+    },
+    {
+      "id": 65,
+      "descricao": "AZITROMICINA DI-HIDRATADA 500MG CX C/450 COMP",
+      "unidade": "UNID"
+    },
+    {
+      "id": 66,
+      "descricao": "BENZOATO DE BENZILA 250MG/ML SUSP. 60ML",
+      "unidade": "FR"
+    },
+    {
+      "id": 67,
+      "descricao": "BOLSA COLETORA DE URINA 2.000ML",
+      "unidade": "UND"
+    },
+    {
+      "id": 68,
+      "descricao": "BOLSA PARA COLOSTOMIA 63MM PCT C/10 PECAS",
+      "unidade": "PCT"
+    },
+    {
+      "id": 69,
+      "descricao": "BORREL - TUBO PORTA LAMINA",
+      "unidade": "UND"
+    },
+    {
+      "id": 70,
+      "descricao": "BROMOPRIDA INJ",
+      "unidade": "UNID"
+    },
+    {
+      "id": 71,
+      "descricao": "BUTILBROMETO DE ESCOP - SIMPLES",
+      "unidade": "UNID"
+    },
+    {
+      "id": 72,
+      "descricao": "BUTILBROMETO DE ESCOP+DIPIRONA GOTAS",
+      "unidade": ""
+    },
+    {
+      "id": 73,
+      "descricao": "BUTILBROMETO DE ESCOP+DIPIRONA INJ CX C/100AMP",
+      "unidade": "UNID"
+    },
+    {
+      "id": 74,
+      "descricao": "CAPTOPRIL 25MG CX C/300 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 75,
+      "descricao": "CAPTOPRIL 50MG CX C/600 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 76,
+      "descricao": "CATETER INTRAVENOSO JELCO NR 14G CX C/50 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 77,
+      "descricao": "CATETER INTRAVENOSO JELCO NR 16G CX C/50 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 78,
+      "descricao": "CATETER INTRAVENOSO JELCO NR 18G CX C/50 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 79,
+      "descricao": "CATETER INTRAVENOSO JELCO NR 20G CX C/50 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 80,
+      "descricao": "CATETER INTRAVENOSO JELCO NR 22G CX C/50 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 81,
+      "descricao": "CATETER INTRAVENOSO JELCO NR 24G CX C/50 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 82,
+      "descricao": "CATETER PARA OXIGÊNIO TIPO OCULOS NR 08 INFANTIL",
+      "unidade": "UND"
+    },
+    {
+      "id": 83,
+      "descricao": "CATETER PARA OXIGÊNIO TIPO OCULOS NR 12",
+      "unidade": "UND"
+    },
+    {
+      "id": 84,
+      "descricao": "CEFALEXINA 250MG/5ML SUSP. 60ML",
+      "unidade": "FR"
+    },
+    {
+      "id": 85,
+      "descricao": "CEFALEXINA 500MG CX C/500 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 86,
+      "descricao": "CEFALOTINA SODICA 1G INJ CX C/50 FRS",
+      "unidade": "FR"
+    },
+    {
+      "id": 87,
+      "descricao": "CEFTRIAXONA 1G PO SOL INJ CX C/100 AMP",
+      "unidade": "UNID"
+    },
+    {
+      "id": 88,
+      "descricao": "CETOCONAZOL 200MG CX C/600 COMP",
+      "unidade": "UNID"
+    },
+    {
+      "id": 89,
+      "descricao": "CETOCONAZOL 20MG/G CREME 30G",
+      "unidade": "TB"
+    },
+    {
+      "id": 90,
+      "descricao": "CETOPROFENO - INJ",
+      "unidade": "UNID"
+    },
+    {
+      "id": 91,
+      "descricao": "CIMETIDINA 150MG/ML INJ.CX C/100AMP",
+      "unidade": "UNID"
+    },
+    {
+      "id": 92,
+      "descricao": "CIMETIDINA 200MG CX C/600 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 93,
+      "descricao": "CINARIZINA 25MG CX C/450 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 94,
+      "descricao": "CINARIZINA 75MG C/450 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 95,
+      "descricao": "CIPROFLOXACINO 2MG/ML INJ 100ML",
+      "unidade": "FRS"
+    },
+    {
+      "id": 96,
+      "descricao": "CIPROFLOXACINO 500MG CX C/300 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 97,
+      "descricao": "CLAMP UMBILICAL",
+      "unidade": "UNID"
+    },
+    {
+      "id": 98,
+      "descricao": "CLORETO DE POTASSIO 10% INJ. 10ML",
+      "unidade": "FRS"
+    },
+    {
+      "id": 99,
+      "descricao": "CLORETO DE SÓDIO 10% INJ. 10ML",
+      "unidade": "FRS"
+    },
+    {
+      "id": 100,
+      "descricao": "CLOREXIDINA 2% 1L USO EXTERNO",
+      "unidade": "FR"
+    },
+    {
+      "id": 101,
+      "descricao": "COLETOR DE URINA S. ABERTO AD. TIPO SACO 2L",
+      "unidade": "UND"
+    },
+    {
+      "id": 102,
+      "descricao": "COLETOR PERFURO CORTANTE 13 L",
+      "unidade": "UND"
+    },
+    {
+      "id": 103,
+      "descricao": "COLETOR PERFURO CORTANTE 20 L",
+      "unidade": "UND"
+    },
+    {
+      "id": 104,
+      "descricao": "COLETOR UNIVERSAL 80ML",
+      "unidade": "UND"
+    },
+    {
+      "id": 105,
+      "descricao": "COMPLEXO B INJ. C/100 AMP",
+      "unidade": "UNID"
+    },
+    {
+      "id": 106,
+      "descricao": "COMPLEXO B SUSP. 100ML",
+      "unidade": "FR"
+    },
+    {
+      "id": 107,
+      "descricao": "COMPRESSA DE GAZE 7,5 X 7,5 CM PCT C/500 UND",
+      "unidade": "PCT"
+    },
+    {
+      "id": 108,
+      "descricao": "COMPRESSA DE GAZE CAMPO OPER. 45X50M PCT C/50 UND",
+      "unidade": "PCT"
+    },
+    {
+      "id": 109,
+      "descricao": "CONJUNTO DE NEBULIZAÇÃO",
+      "unidade": "UNI"
+    },
+    {
+      "id": 110,
+      "descricao": "DEPÓSITO PARA LÂMINA (BOREL)",
+      "unidade": "UNID"
+    },
+    {
+      "id": 111,
+      "descricao": "DESCARTEX - CAIXA DESCARTEX 20LT",
+      "unidade": "UNID"
+    },
+    {
+      "id": 112,
+      "descricao": "DESINFET. HOSP. ALCOOL ETIL 70C/100ML",
+      "unidade": "FR"
+    },
+    {
+      "id": 113,
+      "descricao": "DESLANOL",
+      "unidade": "UNID"
+    },
+    {
+      "id": 114,
+      "descricao": "DEXAMETASONA 0,1MG/ML SUSP. 120ML",
+      "unidade": "FR"
+    },
+    {
+      "id": 115,
+      "descricao": "DEXAMETASONA 1MG/G CREME 10G",
+      "unidade": "TB"
+    },
+    {
+      "id": 116,
+      "descricao": "DEXAMETASONA 4MG/ML INJ. CX C/100 AMP",
+      "unidade": "UNID"
+    },
+    {
+      "id": 117,
+      "descricao": "DEXCLORFENIRAMINA 0,4 MG/ML SUSP. 100ML",
+      "unidade": "FR"
+    },
+    {
+      "id": 118,
+      "descricao": "DICLOFENACO POTASSICO 50MG CX C/500 COMP",
+      "unidade": "UNID"
+    },
+    {
+      "id": 119,
+      "descricao": "DICLOFENACO POTASSICO 75MG/3ML INJ CX C/100 AMP",
+      "unidade": "UNID"
+    },
+    {
+      "id": 120,
+      "descricao": "DICLOFENACO RESINATO 15MG/ML 20ML GTS",
+      "unidade": "FR"
+    },
+    {
+      "id": 121,
+      "descricao": "DICLOFENACO SODICO 50MG CX C/500 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 122,
+      "descricao": "DICLOFENACO SÓDICO 75MG/3ML INJ. CX C/100AMP",
+      "unidade": "UNID"
+    },
+    {
+      "id": 123,
+      "descricao": "DIPIRONA SÓDICA 1G 2ML INJ CX C/120AMP",
+      "unidade": "UNID"
+    },
+    {
+      "id": 124,
+      "descricao": "DIPIRONA SODICA 500MG CX C/500 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 125,
+      "descricao": "DIPIRONA SODICA 500MG/ML GTS 10ML",
+      "unidade": "FR"
+    },
+    {
+      "id": 126,
+      "descricao": "DOPAMINA 50MG/10ML INJ CX C/100AMP",
+      "unidade": "UNID"
+    },
+    {
+      "id": 127,
+      "descricao": "DRAMIN B6 - CLORIDRATO DE PIRIDOXONA - INJ",
+      "unidade": "UNID"
+    },
+    {
+      "id": 128,
+      "descricao": "EMBALAGEM P/ ESTERILIZAÇÃO 140X290MM C/100 UND",
+      "unidade": "UNI"
+    },
+    {
+      "id": 129,
+      "descricao": "EMBALAGEM P/ ESTERILIZAÇÃO 90X160MM C/100 UND",
+      "unidade": "UNI"
+    },
+    {
+      "id": 130,
+      "descricao": "EMBALAGEM P/ ESTERILIZAÇÃO 90X260MM C/100 UND",
+      "unidade": "UNI"
+    },
+    {
+      "id": 131,
+      "descricao": "ENALAPRIL 10MG CX C/500 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 132,
+      "descricao": "ENALAPRIL 20MG CX C/500 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 133,
+      "descricao": "EPINEFRINA - INJ",
+      "unidade": "UNID"
+    },
+    {
+      "id": 134,
+      "descricao": "EQUIPO MACRO GOTAS SIMPLES",
+      "unidade": "UNID"
+    },
+    {
+      "id": 135,
+      "descricao": "EQUIPO MICRO STD FLEXIVEL",
+      "unidade": "UNID"
+    },
+    {
+      "id": 136,
+      "descricao": "ERGOMETRIN 0,2MG/ML INJ CX C/50 AMP",
+      "unidade": "UNID"
+    },
+    {
+      "id": 137,
+      "descricao": "ERITROMICINA 25 MG/ML SUSP. 60ML",
+      "unidade": "FR"
+    },
+    {
+      "id": 138,
+      "descricao": "ERITROMICINA 500MG CX C/ 420 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 139,
+      "descricao": "ESCALPE NR 19G CX C/100 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 140,
+      "descricao": "ESCALPE NR 21G CX C/100 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 141,
+      "descricao": "ESCALPE NR 23G CX C/100 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 142,
+      "descricao": "ESCALPE NR 25G CX C/100 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 143,
+      "descricao": "ESCALPE NR 27G CX C/100 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 144,
+      "descricao": "ESCOVA",
+      "unidade": "UNID"
+    },
+    {
+      "id": 145,
+      "descricao": "ESCOVINHA CERVICAL ",
+      "unidade": "UNI"
+    },
+    {
+      "id": 146,
+      "descricao": "ESFIGMOMANOMETRO C/ EST. KIT VELCRO",
+      "unidade": "UNID"
+    },
+    {
+      "id": 147,
+      "descricao": "ESPARADRAPO IMPERMEAVEL 10CM X 4,5M",
+      "unidade": "UNID"
+    },
+    {
+      "id": 148,
+      "descricao": "ESPATUA DE AYRE",
+      "unidade": "UNI"
+    },
+    {
+      "id": 149,
+      "descricao": "ESPÁTUA DE AYRE",
+      "unidade": "UNI"
+    },
+    {
+      "id": 150,
+      "descricao": "ESPECULO DESCARTÁVEL TAMANHA (G)",
+      "unidade": "UNID"
+    },
+    {
+      "id": 151,
+      "descricao": "ESPECULO DESCARTÁVEL TAMANHA (M)",
+      "unidade": "UNID"
+    },
+    {
+      "id": 152,
+      "descricao": "ESPECULO DESCARTÁVEL TAMANHA (P)",
+      "unidade": "UNID"
+    },
+    {
+      "id": 153,
+      "descricao": "ETILEFRINA 10MG/ML INJ CX C/6 AMP",
+      "unidade": "UNID"
+    },
+    {
+      "id": 154,
+      "descricao": "FENOTEROL 5MG/ML GTS. 20ML",
+      "unidade": "FR"
+    },
+    {
+      "id": 155,
+      "descricao": "FILME P/ ULTRASOM 110MM X 20M  UPP-110S",
+      "unidade": "RL"
+    },
+    {
+      "id": 156,
+      "descricao": "FILME P/ ULTRASON 110MM X 18M  UPP-110HG COLOR.",
+      "unidade": "RL"
+    },
+    {
+      "id": 157,
+      "descricao": "FILME PARA RAIO-X 18X24 CM CX C/100 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 158,
+      "descricao": "FILME PARA RAIO-X 24X30 CM CX C/100 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 159,
+      "descricao": "FILME PARA RAIO-X 30X40 CM CX C/100 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 160,
+      "descricao": "FILME PARA RAIO-X 35X35 CM CX C/100 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 161,
+      "descricao": "FILME PARA RAIO-X 35X43 CM CX C/100 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 162,
+      "descricao": "FIO CATGUT CROMADO 0 C/AG. 3MR CX C/24 ENV.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 163,
+      "descricao": "FIO CATGUT CROMADO 1 C/AG. 3CR CX C/24 ENV.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 164,
+      "descricao": "FIO CATGUT CROMADO 2-0 C/AG. 2MR CX C/24 ENV",
+      "unidade": "UNID"
+    },
+    {
+      "id": 165,
+      "descricao": "FIO CATGUT CROMADO 3-0 C/AG. 2MR CX C/24 ENV",
+      "unidade": "UNID"
+    },
+    {
+      "id": 166,
+      "descricao": "FIO CATGUT CROMADO 4-0 C/AG. 2MR CX C/24 ENV",
+      "unidade": "UNID"
+    },
+    {
+      "id": 167,
+      "descricao": "FIO CATGUT CROMADO 5-0 ",
+      "unidade": "UNID"
+    },
+    {
+      "id": 168,
+      "descricao": "FIO CATGUT SIMPLES 0 C/AG. 3CR CX C/24 ENV.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 169,
+      "descricao": "FIO CATGUT SIMPLES 1 C/AG. 3MR CX C/24 ENV.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 170,
+      "descricao": "FIO CATGUT SIMPLES 2-0 C/AG. 3 CR CX C/24 ENV.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 171,
+      "descricao": "FIO CATGUT SIMPLES 3-0 C/AG. 3 CR CX C/24 ENV.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 172,
+      "descricao": "FIO CATGUT SIMPLES 4-0 C/AG CX C/24 ENV.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 173,
+      "descricao": "FIO CATGUT SIMPLES 5-0 ",
+      "unidade": "UNID"
+    },
+    {
+      "id": 174,
+      "descricao": "FIO CATGUT SIMPLES 6-0 ",
+      "unidade": "UNID"
+    },
+    {
+      "id": 175,
+      "descricao": "FIO KIT CATGUT CROMADO 0 C/AG CX C/12 ENV.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 176,
+      "descricao": "FIO KIT CATGUT CROMADO 2-0 C/AG.CX C/12 ENV",
+      "unidade": "UNID"
+    },
+    {
+      "id": 177,
+      "descricao": "FIO KIT CATGUT SIMPLES 2-0 C/AG. CX C/12 ENV.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 178,
+      "descricao": "FIO NYLON 0 C/AG CX C/24 ENV.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 179,
+      "descricao": "FIO NYLON 1 C/AG CX C/24 ENV.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 180,
+      "descricao": "FIO NYLON 2-0 C/AG CX C/24 ENV",
+      "unidade": "UNID"
+    },
+    {
+      "id": 181,
+      "descricao": "FIO NYLON 3-0 C/AG CX C/24 ENV.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 182,
+      "descricao": "FIO NYLON 4-0 C/AG CX C/24 ENV",
+      "unidade": "UNID"
+    },
+    {
+      "id": 183,
+      "descricao": "FIO NYLON 5-0 C/AG CX C/24 ENV.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 184,
+      "descricao": "FITA ADESIVA AUTOCLAVE 19MM X 30M",
+      "unidade": "RL"
+    },
+    {
+      "id": 185,
+      "descricao": "FITA ADESIVA HOSPITALAR 16MM X 50M",
+      "unidade": "RL"
+    },
+    {
+      "id": 186,
+      "descricao": "FITA MÉTRICA",
+      "unidade": "UNID"
+    },
+    {
+      "id": 187,
+      "descricao": "FITOMENADIONA 10MG/ML INJ CX C/50 AMP",
+      "unidade": "UNID"
+    },
+    {
+      "id": 188,
+      "descricao": "FIXADOR",
+      "unidade": "UNID"
+    },
+    {
+      "id": 189,
+      "descricao": "FIXADOR AUT. MF P/RAIO-X P/76 LITROS",
+      "unidade": "UNID"
+    },
+    {
+      "id": 190,
+      "descricao": "FIXADOR CITOLOGICO 100ML SIST. SPRAY",
+      "unidade": "FR"
+    },
+    {
+      "id": 191,
+      "descricao": "FLORAX  50 MILHÕES/ML SUSP. INF. 5ML",
+      "unidade": "FR"
+    },
+    {
+      "id": 192,
+      "descricao": "FLORAX 100 MILHÕES/ML SUSP. ADULTO 5ML",
+      "unidade": "FR"
+    },
+    {
+      "id": 193,
+      "descricao": "FLUCONAZOL 150 MG CX C/200 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 194,
+      "descricao": "FRALDA GERIATRICA \"G\"",
+      "unidade": "UNID"
+    },
+    {
+      "id": 195,
+      "descricao": "FRALDA GERIATRICA \"M\"",
+      "unidade": "UNID"
+    },
+    {
+      "id": 196,
+      "descricao": "FRALDA GERIATRICA \"XG\"",
+      "unidade": "UNID"
+    },
+    {
+      "id": 197,
+      "descricao": "FUROSEMIDA 10MG/ML INJ. CX C/50AMP",
+      "unidade": "UNID"
+    },
+    {
+      "id": 198,
+      "descricao": "FUROSEMIDA 40MG CX C/500 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 199,
+      "descricao": "GARROTE TAM. ADULTO",
+      "unidade": "UNID"
+    },
+    {
+      "id": 200,
+      "descricao": "GARROTE TAM. INFANTIL",
+      "unidade": "UNID"
+    },
+    {
+      "id": 201,
+      "descricao": "GAZE HIDRÓFILO TIPO QUEIJO 9 FIOS 91MMX91M",
+      "unidade": "UNID"
+    },
+    {
+      "id": 202,
+      "descricao": "GEL PARA ULTRASSOM CONDUTOR GALAO 5KG",
+      "unidade": "GL"
+    },
+    {
+      "id": 203,
+      "descricao": "GENTAMICINA 20MG/MLO INJ. CX C/100AMP",
+      "unidade": "UNID"
+    },
+    {
+      "id": 204,
+      "descricao": "GENTAMICINA 40MG/MLO INJ. CX C/100AMP",
+      "unidade": "UNID"
+    },
+    {
+      "id": 205,
+      "descricao": "GENTAMICINA 80MG/ML INJ. C/100AMP",
+      "unidade": "UNID"
+    },
+    {
+      "id": 206,
+      "descricao": "GLIBENCLAMIDA 5MG CX C/ 450 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 207,
+      "descricao": "GLICERINA 12% 500ML - CLISTER",
+      "unidade": "FRS"
+    },
+    {
+      "id": 208,
+      "descricao": "GLICOSE 25% INJ 10ML",
+      "unidade": "FRS"
+    },
+    {
+      "id": 209,
+      "descricao": "GLICOSE 50% INJ 10ML",
+      "unidade": "AMP"
+    },
+    {
+      "id": 210,
+      "descricao": "GORRO DESCARTÁVEL",
+      "unidade": "UNID"
+    },
+    {
+      "id": 211,
+      "descricao": "HEPARINA SODICA - INJ",
+      "unidade": "UNID"
+    },
+    {
+      "id": 212,
+      "descricao": "HIDRALAZINA",
+      "unidade": "1ML"
+    },
+    {
+      "id": 213,
+      "descricao": "HIDROCLOROTIAZIDA 25MG C/400 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 214,
+      "descricao": "HIDROCORTISONA 100MG. INJ CX C/50 FRS",
+      "unidade": "UNID"
+    },
+    {
+      "id": 215,
+      "descricao": "HIDROCORTISONA 500MG. INJ CX C/50 FRS",
+      "unidade": "UNID"
+    },
+    {
+      "id": 216,
+      "descricao": "HIDROXIDO DE ALUMINIO 6% SUSP. 100ML",
+      "unidade": "FR"
+    },
+    {
+      "id": 217,
+      "descricao": "IBUPROFENO 50MG/ML SUSP. 30ML",
+      "unidade": "FR"
+    },
+    {
+      "id": 218,
+      "descricao": "IBUPROFENO 600MG CX C/500 COMP",
+      "unidade": "UNID"
+    },
+    {
+      "id": 219,
+      "descricao": "IODETO DE POTASSIO 2% 20MG/ML SUSP.100ML",
+      "unidade": "FR"
+    },
+    {
+      "id": 220,
+      "descricao": "IODOPOLIV.SOL",
+      "unidade": "FR"
+    },
+    {
+      "id": 221,
+      "descricao": "IODOPOLIVIDONA SOL. AQUOSA",
+      "unidade": "FR"
+    },
+    {
+      "id": 222,
+      "descricao": "IPRATROPIO 0,250MG/ML SOL. 20ML",
+      "unidade": "FR"
+    },
+    {
+      "id": 223,
+      "descricao": "ISORDIL SUBLINGUAL",
+      "unidade": ""
+    },
+    {
+      "id": 224,
+      "descricao": "KIT P/ DRENAGEM MEDIASTINAL",
+      "unidade": "UNID"
+    },
+    {
+      "id": 225,
+      "descricao": "KIT PAPANICOLAU G NÃO ESTÉRIL",
+      "unidade": "KT"
+    },
+    {
+      "id": 226,
+      "descricao": "KIT PAPANICOLAU M NÃO ESTÉRIL",
+      "unidade": "KT"
+    },
+    {
+      "id": 227,
+      "descricao": "KIT PAPANICOLAU P NÃO ESTÉRIL",
+      "unidade": "KT"
+    },
+    {
+      "id": 228,
+      "descricao": "LAMINA DE BISTURI N 15 C/100 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 229,
+      "descricao": "LAMINA DE BISTURI N 22 C/100 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 230,
+      "descricao": "LAMINA DE BISTURI NR 23 CX C/100 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 231,
+      "descricao": "LAMINA DE BISTURI NR 24 CX C/100 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 232,
+      "descricao": "LAMINA P/MICROSCOPIA PONTA FOSCA CX C/50 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 233,
+      "descricao": "LAMINA P/MICROSCOPIA PONTA LISA CX C/50 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 234,
+      "descricao": "LANCETAS 28G CX C/100 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 235,
+      "descricao": "LIDOCAINA 2% INJ.S/V C/25 AMP",
+      "unidade": "UNID"
+    },
+    {
+      "id": 236,
+      "descricao": "LIDOCAINA 20MG/G GELEIA 30G",
+      "unidade": "TB"
+    },
+    {
+      "id": 237,
+      "descricao": "LORATADINA",
+      "unidade": "UNID"
+    },
+    {
+      "id": 238,
+      "descricao": "LOSARTANA POTASSICA 100MG CX C/300 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 239,
+      "descricao": "LOSARTANA POTASSICA 50MG CX C/300 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 240,
+      "descricao": "LUVA CIRURGICA NR 7.5",
+      "unidade": "PR"
+    },
+    {
+      "id": 241,
+      "descricao": "LUVA CIRURGICA NR 8.0",
+      "unidade": "PR"
+    },
+    {
+      "id": 242,
+      "descricao": "LUVA DE PROCEDIMENTO G CX C/100 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 243,
+      "descricao": "LUVA DE PROCEDIMENTO M CX C/100 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 244,
+      "descricao": "LUVA DE PROCEDIMENTO P CX C/100 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 245,
+      "descricao": "MASCARA DESC. FILTRO TRIPLA ELASTICO CX C/50 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 246,
+      "descricao": "MEBENDAZOL 100MG CX C/600 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 247,
+      "descricao": "MEBENDAZOL 20MG/ML SUSP. 30ML",
+      "unidade": "FR"
+    },
+    {
+      "id": 248,
+      "descricao": "MEDIDOR DE GLICOSE NO SANGUE",
+      "unidade": "UNID"
+    },
+    {
+      "id": 249,
+      "descricao": "METFORMINA 500MG CX C/400 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 250,
+      "descricao": "METFORMINA 850MG CX C/400 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 251,
+      "descricao": "METILDOPA 250 MG CX C/500 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 252,
+      "descricao": "METILDOPA 500 MG CX C/500 COMP",
+      "unidade": "UNID"
+    },
+    {
+      "id": 253,
+      "descricao": "METOCLOPRAMIDA 10MG CX C/500 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 254,
+      "descricao": "METOCLOPRAMIDA 4MG/ML GTS 10ML",
+      "unidade": "FR"
+    },
+    {
+      "id": 255,
+      "descricao": "METOCLOPRAMIDA 5MG/ML INJ CX C/100 AMP",
+      "unidade": "UNID"
+    },
+    {
+      "id": 256,
+      "descricao": "METRONIDAZOL  5MG/ML INJ 100ML",
+      "unidade": "FRS"
+    },
+    {
+      "id": 257,
+      "descricao": "METRONIDAZOL 100MG/G CREME 50G",
+      "unidade": "TB"
+    },
+    {
+      "id": 258,
+      "descricao": "METRONIDAZOL 100MG/G+NISTATINA 20.000UI/G CREME 50G",
+      "unidade": "TB"
+    },
+    {
+      "id": 259,
+      "descricao": "METRONIDAZOL 250MG CX C/600 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 260,
+      "descricao": "METRONIDAZOL 40MG/ML SUSP. 80ML",
+      "unidade": "FR"
+    },
+    {
+      "id": 261,
+      "descricao": "MICONAZOL 20MG/G CREME VAGINAL 80G",
+      "unidade": "TB"
+    },
+    {
+      "id": 262,
+      "descricao": "MICONAZOL 20MG/G LOCAO 30G",
+      "unidade": "FR"
+    },
+    {
+      "id": 263,
+      "descricao": "MINILAX",
+      "unidade": "UNID"
+    },
+    {
+      "id": 264,
+      "descricao": "MULTIVIAS",
+      "unidade": "UNID"
+    },
+    {
+      "id": 265,
+      "descricao": "NEBULIZADOR",
+      "unidade": "UNID"
+    },
+    {
+      "id": 266,
+      "descricao": "NEOCAINA 0,50% PESADA INJ C/40",
+      "unidade": "UNID"
+    },
+    {
+      "id": 267,
+      "descricao": "NEOMICINA 5MG/G+BACITRACINA 250UI/G POMADA 10G",
+      "unidade": "TB"
+    },
+    {
+      "id": 268,
+      "descricao": "NEOSTIGMINA 0,5MG/ML INJ CX C/50 AMP",
+      "unidade": "UNID"
+    },
+    {
+      "id": 269,
+      "descricao": "NIFEDIPINO 10MG CX C/60 CAPS",
+      "unidade": "UNID"
+    },
+    {
+      "id": 270,
+      "descricao": "NIFEDIPINO 20MG CX C/480 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 271,
+      "descricao": "NIMESULIDA 100MG CX C/504 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 272,
+      "descricao": "NIMESULIDA 50MG/ML GTS 15ML",
+      "unidade": "FR"
+    },
+    {
+      "id": 273,
+      "descricao": "NISTATINA 100.000UI/ML SUSP. 30ML",
+      "unidade": "FR"
+    },
+    {
+      "id": 274,
+      "descricao": "NISTATINA 25.000UI/G CREME 60G+APLIC.",
+      "unidade": "TB"
+    },
+    {
+      "id": 275,
+      "descricao": "NITROFURAZONA POMADA 500G",
+      "unidade": "PT"
+    },
+    {
+      "id": 276,
+      "descricao": "NOOTROPIL INJ  - PIRACETAM",
+      "unidade": "UNID"
+    },
+    {
+      "id": 277,
+      "descricao": "OCITOCINA 5UI/ML INJ. CX C/50AMP",
+      "unidade": "UNID"
+    },
+    {
+      "id": 278,
+      "descricao": "ÓCULOS",
+      "unidade": "UNID"
+    },
+    {
+      "id": 279,
+      "descricao": "OLEO MINERAL 100ML",
+      "unidade": "FR"
+    },
+    {
+      "id": 280,
+      "descricao": "OMEPRAZOL 20MG CX C/560 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 281,
+      "descricao": "OMEPRAZOL SODICO 40MG - INJ",
+      "unidade": "UNID"
+    },
+    {
+      "id": 282,
+      "descricao": "OXACILINA SÓDICA 500MG- INJ",
+      "unidade": "UNID"
+    },
+    {
+      "id": 283,
+      "descricao": "PAPEL LENCOL LEFLEX-EXTRA 70CM X 50 MT",
+      "unidade": "RL"
+    },
+    {
+      "id": 284,
+      "descricao": "PAPEL MADEIRA",
+      "unidade": "UNID"
+    },
+    {
+      "id": 285,
+      "descricao": "PAPEL TUBO GRAU CIRURGICO 100MM X 100M",
+      "unidade": "TB"
+    },
+    {
+      "id": 286,
+      "descricao": "PAPEL TUBO GRAU CIRURGICO 150MM X 100M",
+      "unidade": "TB"
+    },
+    {
+      "id": 287,
+      "descricao": "PARACETAMOL 200MG/ML 10ML GTS",
+      "unidade": "FR"
+    },
+    {
+      "id": 288,
+      "descricao": "PARACETAMOL 500MG CX C/500 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 289,
+      "descricao": "PARACETAMOL 750MG CX C/480 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 290,
+      "descricao": "PENIC. G BENZ.1.200.000UI INJ CX C/50 FRS",
+      "unidade": "UNID"
+    },
+    {
+      "id": 291,
+      "descricao": "PENIC. PROCAINA 400.00UI INJ CX C/50FRS",
+      "unidade": "UNID"
+    },
+    {
+      "id": 292,
+      "descricao": "PENICILINA BENZ. 600.000UI INJ CX C/50FRS",
+      "unidade": "UNID"
+    },
+    {
+      "id": 293,
+      "descricao": "PINÇA KELLY RETA",
+      "unidade": "UNID"
+    },
+    {
+      "id": 294,
+      "descricao": "PIRACETAM 1G/5ML INJ. CX C12AMP",
+      "unidade": "UNID"
+    },
+    {
+      "id": 295,
+      "descricao": "POLISOCEL SOLUCAO DE GELATINA 3,5% 500ML",
+      "unidade": "FRS"
+    },
+    {
+      "id": 296,
+      "descricao": "PORTA AGULHA",
+      "unidade": "UNID"
+    },
+    {
+      "id": 297,
+      "descricao": "POVIDINE DEGERMANTE 10% 1LT",
+      "unidade": "FR"
+    },
+    {
+      "id": 298,
+      "descricao": "POVIDINE TOPICO 1LT",
+      "unidade": "FR"
+    },
+    {
+      "id": 299,
+      "descricao": "PREDNISONA 20MG CX C/600 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 300,
+      "descricao": "PREDNISONA 5MG CX C/600 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 301,
+      "descricao": "PRO - PE DESCARTAVEL  PCT C/100 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 302,
+      "descricao": "PROMETAZINA 50MG/2ML INJ C/ 50 AMP",
+      "unidade": "UNID"
+    },
+    {
+      "id": 303,
+      "descricao": "PROPRANOLOL 40MG CX C/600 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 304,
+      "descricao": "RANITIDINA 150MG CX C/500 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 305,
+      "descricao": "RANITIDINA 50MG/2ML INJ. CX C/100AMP",
+      "unidade": "UNID"
+    },
+    {
+      "id": 306,
+      "descricao": "RÉGUA ANTROPOMÉTRICA INFANTIL",
+      "unidade": "UNID"
+    },
+    {
+      "id": 307,
+      "descricao": "REVELADOR AUT. MF P/ RAIO-X P/76 LITROS",
+      "unidade": "UNID"
+    },
+    {
+      "id": 308,
+      "descricao": "SAIS PARA REIDRATACAO ORAL CX C/50 ENV.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 309,
+      "descricao": "SALBUTAMOL 2,4MG/5ML SUSP. 100ML",
+      "unidade": "FR"
+    },
+    {
+      "id": 310,
+      "descricao": "SECNIDAZOL 1000MG CX C/100 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 311,
+      "descricao": "SERINGA 01ML S/AG. C/100 UND.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 312,
+      "descricao": "SERINGA 03ML S/AG. C/100 UND.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 313,
+      "descricao": "SERINGA 05ML S/AG. C/100 UND.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 314,
+      "descricao": "SERINGA 10ML S/AG. C/100 UND.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 315,
+      "descricao": "SERINGA 20ML S/AG. C/50 UND.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 316,
+      "descricao": "SIMETICONA 40MG CX C/600 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 317,
+      "descricao": "SIMETICONA 75MG/ML GTS 10ML",
+      "unidade": "FR"
+    },
+    {
+      "id": 318,
+      "descricao": "SINVASTATINA 20MG CX C/500 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 319,
+      "descricao": "SONAR",
+      "unidade": "UNID"
+    },
+    {
+      "id": 320,
+      "descricao": "SONDA DE FOLEY 2 VIAS NR 10",
+      "unidade": "UNID"
+    },
+    {
+      "id": 321,
+      "descricao": "SONDA DE FOLEY 2 VIAS NR 12",
+      "unidade": "UNID"
+    },
+    {
+      "id": 322,
+      "descricao": "SONDA DE FOLEY 2 VIAS NR 14",
+      "unidade": "UNID"
+    },
+    {
+      "id": 323,
+      "descricao": "SONDA DE FOLEY 2 VIAS NR 16",
+      "unidade": "UNID"
+    },
+    {
+      "id": 324,
+      "descricao": "SONDA DE FOLEY 2 VIAS NR 18",
+      "unidade": "UNID"
+    },
+    {
+      "id": 325,
+      "descricao": "SONDA DE FOLEY 2 VIAS NR 20",
+      "unidade": "UNID"
+    },
+    {
+      "id": 326,
+      "descricao": "SONDA ENDOTRAQUEAL",
+      "unidade": "UNID"
+    },
+    {
+      "id": 327,
+      "descricao": "SONDA NASOGASTRICA CURTA NR 06",
+      "unidade": "UNID"
+    },
+    {
+      "id": 328,
+      "descricao": "SONDA NASOGASTRICA CURTA NR 08",
+      "unidade": "UNID"
+    },
+    {
+      "id": 329,
+      "descricao": "SONDA NASOGASTRICA CURTA NR 10",
+      "unidade": "UNID"
+    },
+    {
+      "id": 330,
+      "descricao": "SONDA NASOGASTRICA CURTA NR 12",
+      "unidade": "UNID"
+    },
+    {
+      "id": 331,
+      "descricao": "SONDA NASOGASTRICA CURTA NR 14",
+      "unidade": "UNID"
+    },
+    {
+      "id": 332,
+      "descricao": "SONDA NASOGASTRICA CURTA NR 16",
+      "unidade": "UNID"
+    },
+    {
+      "id": 333,
+      "descricao": "SONDA NASOGASTRICA LONGA NR 06",
+      "unidade": "UNID"
+    },
+    {
+      "id": 334,
+      "descricao": "SONDA NASOGASTRICA LONGA NR 08",
+      "unidade": "UNID"
+    },
+    {
+      "id": 335,
+      "descricao": "SONDA NASOGASTRICA LONGA NR 10",
+      "unidade": "UNID"
+    },
+    {
+      "id": 336,
+      "descricao": "SONDA NASOGASTRICA LONGA NR 12",
+      "unidade": "UNID"
+    },
+    {
+      "id": 337,
+      "descricao": "SONDA NASOGASTRICA LONGA NR 14",
+      "unidade": "UNID"
+    },
+    {
+      "id": 338,
+      "descricao": "SONDA NASOGASTRICA LONGA NR 16",
+      "unidade": "UNID"
+    },
+    {
+      "id": 339,
+      "descricao": "SONDA NASOGASTRICA LONGA NR 18",
+      "unidade": "UNID"
+    },
+    {
+      "id": 340,
+      "descricao": "SONDA NASOGASTRICA LONGA NR 20",
+      "unidade": "UNID"
+    },
+    {
+      "id": 341,
+      "descricao": "SONDA URETRAL NR 06",
+      "unidade": "UNID"
+    },
+    {
+      "id": 342,
+      "descricao": "SONDA URETRAL NR 08",
+      "unidade": "UNID"
+    },
+    {
+      "id": 343,
+      "descricao": "SONDA URETRAL NR 10",
+      "unidade": "UNID"
+    },
+    {
+      "id": 344,
+      "descricao": "SONDA URETRAL NR 12",
+      "unidade": "UNID"
+    },
+    {
+      "id": 345,
+      "descricao": "SONDA URETRAL NR 14",
+      "unidade": "UNID"
+    },
+    {
+      "id": 346,
+      "descricao": "SONDA URETRAL NR 16",
+      "unidade": "UNID"
+    },
+    {
+      "id": 347,
+      "descricao": "SORO FISIOLÓGICO 0,9% 100ML",
+      "unidade": "UNID"
+    },
+    {
+      "id": 348,
+      "descricao": "SORO FISIOLÓGICO 0,9% 250ML",
+      "unidade": "FRS"
+    },
+    {
+      "id": 349,
+      "descricao": "SORO FISIOLÓGICO 0,9% 500ML",
+      "unidade": "FRS"
+    },
+    {
+      "id": 350,
+      "descricao": "SORO GLICO-FISIOLÓGICO 250ML  S.F",
+      "unidade": "FRS"
+    },
+    {
+      "id": 351,
+      "descricao": "SORO GLICO-FISIOLÓGICO 500ML  S.F",
+      "unidade": "FRS"
+    },
+    {
+      "id": 352,
+      "descricao": "SORO GLICOSADO 5% 250ML",
+      "unidade": "FRS"
+    },
+    {
+      "id": 353,
+      "descricao": "SORO GLICOSADO 5% 500ML",
+      "unidade": "FRS"
+    },
+    {
+      "id": 354,
+      "descricao": "SORO MANITOL 20% 250ML",
+      "unidade": "FRS"
+    },
+    {
+      "id": 355,
+      "descricao": "SORO MANITOL 20% 500ML",
+      "unidade": "FRS"
+    },
+    {
+      "id": 356,
+      "descricao": "SORO RINGER C/LACTATO 500ML",
+      "unidade": "FRS"
+    },
+    {
+      "id": 357,
+      "descricao": "SORO RINGER SIMPLES 500ML",
+      "unidade": "FRS"
+    },
+    {
+      "id": 358,
+      "descricao": "SULFA+TRIM. 400MG+80MG CX C/400 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 359,
+      "descricao": "SULFA+TRIM. 40MG+8MG/ML 50ML",
+      "unidade": "FR"
+    },
+    {
+      "id": 360,
+      "descricao": "SULFADIAZINA DE PRATA 10MG/G CREME 400G",
+      "unidade": "PT"
+    },
+    {
+      "id": 361,
+      "descricao": "SULFATO FERROSO 25MG/ML SUSP. 100ML",
+      "unidade": "FR"
+    },
+    {
+      "id": 362,
+      "descricao": "SULFATO FERROSO 40MG CX C/500 COMP.",
+      "unidade": "UNID"
+    },
+    {
+      "id": 363,
+      "descricao": "TENOXICAM 20 MG -INJ",
+      "unidade": "UNID"
+    },
+    {
+      "id": 364,
+      "descricao": "TERMOMETRO CLINICO DIGITAL",
+      "unidade": "UNID"
+    },
+    {
+      "id": 365,
+      "descricao": "TERMOMETRO CLINICO PRISMATICO",
+      "unidade": "UNID"
+    },
+    {
+      "id": 366,
+      "descricao": "TESOURA CIRÚRGICA",
+      "unidade": "UNID"
+    },
+    {
+      "id": 367,
+      "descricao": "TIRAS DE EXAME DE GLICEMIA CX C/50 UND",
+      "unidade": "FR"
+    },
+    {
+      "id": 368,
+      "descricao": "TOUCA DESC. SANFONADA  PCT C/100 UND",
+      "unidade": "UNID"
+    },
+    {
+      "id": 369,
+      "descricao": "TUBO ENDOTRAQUEAL N° 12",
+      "unidade": "UNID"
+    },
+    {
+      "id": 370,
+      "descricao": "TUBO ENDOTRAQUEAL N° 14",
+      "unidade": "UNID"
+    },
+    {
+      "id": 371,
+      "descricao": "TUBO ENDOTRAQUEAL N° 14",
+      "unidade": "UNID"
+    },
+    {
+      "id": 372,
+      "descricao": "TUBO ENDOTRAQUEAL N° 18",
+      "unidade": "UNID"
+    },
+    {
+      "id": 373,
+      "descricao": "TUBO ENDOTRAQUEAL N° 26",
+      "unidade": "UNID"
+    },
+    {
+      "id": 374,
+      "descricao": "TUBO ENDOTRAQUEAL N° 28",
+      "unidade": "UNID"
+    },
+    {
+      "id": 375,
+      "descricao": "TUBO ENDOTRAQUEAL N° 30",
+      "unidade": "UNID"
+    },
+    {
+      "id": 376,
+      "descricao": "TUBO ENDOTRAQUEAL N° 32",
+      "unidade": "UNID"
+    },
+    {
+      "id": 377,
+      "descricao": "VALVULA PARA CILINDRO",
+      "unidade": "UNID"
+    },
+    {
+      "id": 378,
+      "descricao": "LUVA CIRURGICA NR 7.0",
+      "unidade": "PR"
+    }
+  ],
+  "listaSaidaSomada": [
+    {
+      "opcao1": [
+        {
+          "opcao2": "nadinha dentro"
+        }
+      ]
+    }
+  ],
+  "menus": [
+    {
+      "id": 1,
+      "descricao": "Entrada",
+      "icon": ""
+    },
+    {
+      "id": 2,
+      "descricao": "Saida",
+      "icon": ""
+    },
+    {
+      "id": 3,
+      "descricao": "Relatorio",
+      "icon": ""
+    },
+    {
+      "id": 4,
+      "descricao": "Compras",
+      "icon": ""
+    }
+  ],
+  "setores": [
+    {
+      "id": 1,
+      "descricao": "Emergencia"
+    },
+    {
+      "id": 2,
+      "descricao": "Posto Enf"
+    },
+    {
+      "id": 3,
+      "descricao": "Pre-Parto"
+    },
+    {
+      "id": 4,
+      "descricao": "Outros"
+    },
+    {
+      "id": 5,
+      "descricao": "Vagabunda"
+    }
+  ]
+}
